@@ -28,4 +28,4 @@ list1 = [2, 2, 3, 1]
 # 		if secondmax == mx: 
 # 			secondmax = list1[i] 
 
-print("Second highest number is : ",str(secondmax))
+print("Second highest number is : ",str(secondMax))
