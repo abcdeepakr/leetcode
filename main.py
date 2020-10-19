@@ -1,3 +1,3 @@
 #main.py
 import os
-os.system('python3 rotateMatrix.py')
+os.system('python3 maximumNumber.py')  
