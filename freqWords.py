@@ -6,8 +6,8 @@ for i in words:
     hashtable[i] = 1
   else:
     hashtable[i] +=1
-ans = sorted(hashtable.items(),key = lambda kv:(kv[1], kv[0]), reverse = True)
-final  = []
-for i in range(key):
-  final.append(ans[i][0])
-print(sorted(final))
+# ans = sorted(hashtable.items(),key = lambda kv:(kv[1], kv[0]), reverse = True)
+# final  = []
+# for i in range(key):
+#   final.append(ans[i][0])
+# print(sorted(final))
