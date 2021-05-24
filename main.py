@@ -1,3 +1,3 @@
 #main.py
 import os
-os.system('python3 removeAdjacentDuplicates.py')  
+os.system('python3 uniqueValuesInDictionary.py')  
