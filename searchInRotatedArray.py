@@ -44,3 +44,5 @@ while(high - low>=0):
 if(found == False):
   print(-1)
   
+matches = db.prefix("prefix")
+from replit import db
