@@ -1,0 +1,1 @@
+print(divmod(702,26))

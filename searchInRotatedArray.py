@@ -1,7 +1,8 @@
 '''
+
 property of rotated sorted array for searching
 
-after finding mid any one half will be sorted for sure
+after finding mid, any one half will be sorted for sure
 
 set low high and mid
 
@@ -18,7 +19,6 @@ if(mid>=low) i.e it is the sorted half
   else low = mid+1
 
 '''
-
 
 nums = [4,5,6,7,8,1,2,3]
 target = 8
@@ -43,6 +43,3 @@ while(high - low>=0):
       low = mid+1
 if(found == False):
   print(-1)
-  
-matches = db.prefix("prefix")
-from replit import db
